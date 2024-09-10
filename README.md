@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Harikrishnan</h1>
 <h3>A passionate Web developer from India</h3>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hari04204?theme=dark&font=Roboto&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hari04204?theme=dark&font=Noto%20Sans&ext=heatmap)      
+![Hari's Github stats](https://github-readme-stats.vercel.app/api?username=hari04204&theme=dark&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari04204&label=Profile%20views&color=0e75b6&style=flat" alt="hari04204" /> </p>
 
